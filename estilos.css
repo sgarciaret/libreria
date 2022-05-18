@@ -1,0 +1,19 @@
+body{
+    color: darkred;
+    background-image: url(https://www.monederosmart.com/wp-content/uploads/2019/09/0-Wamsler-30875639-scaled.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+    }
+h1{
+    color: green;
+    font-size: 30px;
+}
+a{
+    color: red;
+}
+*{
+    color: black;
+}
